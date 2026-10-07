@@ -1,4 +1,4 @@
-# Program Name: Assignment2.py
+# Program Name: Assignment3.py
 # Course: IT3883/Section W01
 # Student Name: Che Mack
 # Assignment Number: Assignment 3
